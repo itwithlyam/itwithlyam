@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.dashboard {
+    background-color: white;
+}
+.dash-loc {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5px;
+    width: 40%;
+    margin: auto;
+}
+.dash-loc:hover {
+    border-color: purple;
+}
+
+.dash-loc-but {
+    width: 100%;
+    background-color: white;
+}
+
+.dash-loc-but:hover {
+    width: 100%;
+    background-color: lavender;
+}
+
+.loc-head {
+    text-align: center;
+}
+.loc-2 {
+    text-align: center;
+}
+.loc-but-div {
+    text-align: center;
+}
+.loc-but {
+    padding: 12px 28px;
+    border-radius: 8px;
+    background-color: white;
+}
+.loc-but:hover {
+    background-color: lavender;
+}
+.loc-logout:hover {
+    background-color: #ffcc99 !important;
+}
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
